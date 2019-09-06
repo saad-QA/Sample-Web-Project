@@ -12,7 +12,7 @@
         </p>
 
         <p>        
-            Use this area to provide additional information.
+            This one is going to be triggered after push.
         </p>
 
         <p>        
