@@ -16,7 +16,7 @@
         </p>
 
         <p>        
-            Use this area to provide additional information.
+            I'm pushing this code and then triggering this.
         </p>
     </article>
 
